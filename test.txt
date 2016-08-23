@@ -6,7 +6,3 @@ Hello !
 
 test
 
-
-
-
-test2
